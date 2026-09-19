@@ -1,0 +1,17 @@
+# colcon build artifacts
+build/
+install/
+log/
+
+# VSCode workspace/IntelliSense caches
+.vscode/
+src/.vscode/
+
+# demo source video (converted to demo.gif for the README)
+*.webm
+
+# misc
+*.pyc
+__pycache__/
+.DS_Store
+.claude/
